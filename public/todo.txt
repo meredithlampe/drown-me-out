@@ -1,0 +1,7 @@
+todo:
+
+host on firebase to monitor traffic(?)
+
+sound stops when you change apps (https://github.com/photonstorm/phaser/issues/4790)
+
+
